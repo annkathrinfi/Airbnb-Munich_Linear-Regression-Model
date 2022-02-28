@@ -37,7 +37,7 @@ import matplotlib.patches as mpatches
 The following files are uploaded in the repository:
 - ``Airbnb Munich_Prediction of Reviews per Month.ipynb``: The Jupyter notebook contains the complete Python code used for the data preparation, exploratory analysis and model building.
 - ``listings.csv.gz``: compressed csv-file, which holds the data used for this analysis.
-- ``skew_autotransform.py``: library code used for transformation of features (https://github.com/datamadness/Automatic-skewness-transformation-for-Pandas-DataFrame)
+- ``skew_autotransform.py``: Python function to automatically transform skewed data in Pandas DataFrame (https://github.com/datamadness/Automatic-skewness-transformation-for-Pandas-DataFrame)
 
 ## Summary of the Results of the Analysis
 In this project, I analysed the Airbnb Dataset for listings in Munich. 
