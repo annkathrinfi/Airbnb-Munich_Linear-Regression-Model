@@ -1,6 +1,6 @@
 # Airbnb Munich: Linear-Regression-Model
 
-This project is part of the Udacity Nanodegee "Data Science". The goal is to apply the newly deceloped skills of "Lesson 2: The Data Science Process" to answer 3-5 questions, related to real-world data.
+This project is part of the Udacity Nanodegee "Data Science". The goal is to apply the newly developed skills of "Lesson 2: The Data Science Process" to answer 3-5 questions, related to real-world data.
 
 ## Context
 The database is the Airbnb listings-data for Munich from 24th December 2021.
