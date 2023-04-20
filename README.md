@@ -9,7 +9,7 @@ Key questions that will be answered are the following:
 1. Which are the popular neighbourhoods of Munich?
 2. In which neighbourhood are most listings located?
 3. Do listings in a popular neighbourhood get more reviews per month?
-4. Which features influence how many review a listing will receive in a month?
+4. Which features influence how many reviews a listing will receive in a month?
 5. Can we predict the number of reviews per month with linear regression?
 
 ## Libraries used
